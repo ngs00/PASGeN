@@ -6,4 +6,4 @@ Infrared (IR) spectroscopy is an efficient method for identifying unknown chemic
 - exec.py: A python script to optimize model parameters of PASGeN on the NIST dataset.
 
 ## Datasets
-$${\color{red}Red}$$ The collected NIST dataset will be available for appropriate requests.
+$${\color{red}The collected NIST dataset will be available for appropriate requests.}$$
